@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋...! I'm Sneha Priya Muppiri @sm743
 
-<!--
-**sm743/sm743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a highly ambitious and passionate Full-Stack Developer with a strong foundation in various technologies and a deep commitment to continuous learning. I thrive on building scalable and efficient applications, always seeking to improve my craft and take on challenging projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Core Skills
+#### -  Full Stack Development
+#### -  Algorithms and Data Structures
+#### -  Object-Oriented Programming
+#### -  Database Management
+
+## 💻 Tech Stack
+
+#### Backend:
+- Golang, Java, Python, C, C++, C#, Perl
+
+#### Frontend:
+- HTML, CSS, JavaScript, TypeScript, Angular
+
+#### Database:
+- MySQL, IBM DB2, DynamoDB, Amazon RDS
+
+#### Tools:
+- Git, Visual Studio Code, Visual Studio
+
+#### Cloud:
+- AWS, IBM Cloud
+
+#### Frameworks:
+- Spring Boot, NodeJS
+
